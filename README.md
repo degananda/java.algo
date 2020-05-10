@@ -1,2 +1,0 @@
-# java.algo
-degananda.com
